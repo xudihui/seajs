@@ -1,4 +1,4 @@
-A Module Loader for the Web edit this time again next time
+A Module Loader for the Web edit this time again next time again
 ===
 
 Sea.js is a module loader for the web. It is designed to change the way that you
